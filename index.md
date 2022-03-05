@@ -2,7 +2,7 @@
 
 안녕하세요. 이예림입니다. :smile:
 
-https://user-images.githubusercontent.com/100740625/156894815-2fcf02c4-6991-4603-8372-b8f30e2a5f21.jpg
+![This is an image](https://user-images.githubusercontent.com/100740625/156894815-2fcf02c4-6991-4603-8372-b8f30e2a5f21.jpg)
 
 ### *Education*
 

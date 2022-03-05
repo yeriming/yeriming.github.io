@@ -2,6 +2,8 @@
 
 안녕하세요. 이예림입니다. :smile:
 
+![사진](https://user-images.githubusercontent.com/100740625/156895556-b5fbfdfa-0bde-4e6f-93bf-17b93fbfd3e3.JPEG)
+
 
 ### *Education*
 ```ruby
